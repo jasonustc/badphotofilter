@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.30501.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "ExtractFeature", "ExtractFeature\ExtractFeature.vcxproj", "{C429F4DC-83FA-462A-A02E-3A2C1E599376}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "TrainSVM", "TrainSVM\TrainSVM.vcxproj", "{356E3797-4A6F-418C-820D-8D90B90CF71F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C429F4DC-83FA-462A-A02E-3A2C1E599376}.Debug|Win32.ActiveCfg = Debug|Win32
+		{C429F4DC-83FA-462A-A02E-3A2C1E599376}.Debug|Win32.Build.0 = Debug|Win32
+		{C429F4DC-83FA-462A-A02E-3A2C1E599376}.Release|Win32.ActiveCfg = Release|Win32
+		{C429F4DC-83FA-462A-A02E-3A2C1E599376}.Release|Win32.Build.0 = Release|Win32
+		{356E3797-4A6F-418C-820D-8D90B90CF71F}.Debug|Win32.ActiveCfg = Debug|Win32
+		{356E3797-4A6F-418C-820D-8D90B90CF71F}.Debug|Win32.Build.0 = Debug|Win32
+		{356E3797-4A6F-418C-820D-8D90B90CF71F}.Release|Win32.ActiveCfg = Release|Win32
+		{356E3797-4A6F-418C-820D-8D90B90CF71F}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
